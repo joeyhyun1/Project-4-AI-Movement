@@ -9,13 +9,13 @@
 
 ** What was/were your starting tutorial(s)? **
 > &nbsp;
-><i>(answer here)</i>   
+><i>https://www.youtube.com/watch?v=t9e2XBQY4Og</i>   
 > &nbsp;
 
 
 ** What did you do in your Research Phase? **
 > &nbsp;
-><i>(answer here)</i>   
+><i>I read through the textbook chapter and I then followed the tutorial video which laid out a great starting place. I then edited the code from that to more closely match the game ai pro book.</i>   
 > &nbsp;
 
 
