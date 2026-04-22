@@ -63,7 +63,7 @@ Did you get help from any additional online websites, videos, or tutorials?  (li
 
 What trouble did you have with this project?
 > &nbsp;
-><i>(answer here)</i>   
+><i>Only real trouble was converting the youtube tutorial to more closely match the game AI pro chapter.</i>   
 > &nbsp;
 
 
